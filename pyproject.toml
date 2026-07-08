@@ -12,4 +12,5 @@ dependencies = [
     "pydantic-ai>=1.102.0",
     "pypdf>=6.14.2",
     "rich>=15.0.0",
+    "openai-agents>=0.18.0",
 ]

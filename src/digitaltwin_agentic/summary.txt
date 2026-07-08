@@ -1,0 +1,12 @@
+My name is Debasis Panda. I'm a software engineer.
+I'm originally from Cuttack, Odisha, India, but I moved to Hyderabad, India in 2012.
+As a skilled full-stack developer, I specialize in designing and
+implementing highly scalable applications using microservices
+architecture. My adaptability and eagerness to learn new
+technologies have enabled me to quickly master modern tools and
+practices, making me a valuable asset to any team.
+Beyond code, I am an avid traveler and food lover, always eager to
+explore new places, cultures, and cuisines. My interests extend to
+travel blogging, photography, road trips, and all things automotive—
+especially bikes and cars, which are a constant source of excitement
+for me.
